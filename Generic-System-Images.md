@@ -2,11 +2,6 @@
 ## Some info
 todo
 ## Installation
-### Android 12L
-| Name | Type | Gapps | Maintainer | Download | Notes |
-| ---- | ---- | ----- | ---------- | -------- | ----- |
-|  |  |  |  |  |  |
-### Android 11
-| Name | Type | Gapps | Maintainer | Download | Notes |
-| ---- | ---- | ----- | ---------- | -------- | ----- |
-|  |  |  |  |  |  |
+todo
+## List GSIs
+To get GSIs, go [here](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list)
